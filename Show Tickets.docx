@@ -1,0 +1,85 @@
+Key Functional Requirement :-
+Before Starting a project you must follow this steps or you can refer SDLC
+
+Collect Requirement 
+Plan According To 
+Analysis For Each Module
+Decide how to present Output
+Start Coding Module Wise
+Test in Proper Way
+
+
+
+
+
+
+
+Key Functional Requirement :-
+Before Starting a project you must follow this steps or you can refer SDLC
+
+Functional Requirement:-
+Theatre Name
+Theatre contact Number
+Theatre Address
+Show
+Show Timings 
+Date and Day
+No of Seats
+Seat no
+Seat Type(3D/2D)
+Total fare
+Show time
+
+
+Project Structure & File Names:-
+
+Seat Reservation (Package Name)
+Show info.py
+TicketShow.py
+Admin.py
+main.py
+
+ClassName = PassengerRegistration
+Attribute in class
+passengerName
+noOfPassenger
+Show
+Showtiming
+selectDay
+selectSeatNo
+selectSeatType
+SeatFare
+autoInc
+countCol
+Class Name = PassengerDataCsv
+Here we will save the data on csv file permanently
+Class Name = TicketShow
+After Booking we can check the ticket
+Class Name = Admin
+
+
+
+
+
+
+
+=========================================================
+
+                                
+Seat Booking Application
+		   using
+             Core Python
+
+Project Outcome:-
+
+How to start a project
+How to implement a concept
+How To store data in csv file for future purpose
+Modularity Approach
+How to produce result in presentable format 
+
+Explanation in 3 Step:-
+
+Explain Project Execution
+Explain Project Document 
+Explain The Coding Part
