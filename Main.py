@@ -1,5 +1,5 @@
 # Data importing section
-from passengerinfo import*
+from Showinfo import*
 from TicketShow import*
 from admin import*
 
